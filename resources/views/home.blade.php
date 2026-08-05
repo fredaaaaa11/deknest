@@ -934,7 +934,7 @@ footer{background:var(--bg-dark);padding:72px 0 36px}
                 <div class="contact-info-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg></div>
                 <div>
                     <p class="contact-info-lbl">Email</p>
-                    <p class="contact-info-val">knestconstruction@gmail.com</p>
+                    <p class="contact-info-val">info@deknestconstruction.com</p>
                 </div>
             </div>
             <div class="contact-info-row">
@@ -1026,7 +1026,7 @@ footer{background:var(--bg-dark);padding:72px 0 36px}
                     <li><a href="#">Nako House, Dzorwulu, Accra</a></li>
                     <li><a href="tel:0545852345">0545852345</a></li>
                     <li><a href="tel:0547018313">0547018313</a></li>
-                    <li><a href="mailto:knestconstruction@gmail.com">knestconstruction@gmail.com</a></li>
+                    <li><a href="mailto:info@deknestconstruction.com">info@deknestconstruction.com</a></li>
                 </ul>
             </div>
         </div>
