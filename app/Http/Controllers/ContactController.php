@@ -27,7 +27,7 @@ class ContactController
         ];
 
         // Send email to admin
-        Mail::to(config('mail.from.address'))->send(new EnquiryMail($enquiry));
+        Mail::to(config('mail.support.address'))->send(new EnquiryMail($enquiry));
 
         return back()->with('success', 'Thank you! Your enquiry has been received. We will be in touch shortly.');
     }
